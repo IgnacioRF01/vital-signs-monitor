@@ -6,7 +6,8 @@ A low-cost prototype patient monitor: an ESP32 acquires ECG, photoplethysmograph
 >
 > **Not a medical device.** This is an educational prototype. None of the measurements have been calibrated or validated against reference equipment.
 
-![Monitor view](docs/images/gui-monitor.png)
+<img width="674" height="396" alt="image" src="https://github.com/user-attachments/assets/317bfc15-3f71-4cea-8a2b-26197a88e449" />
+
 *Monitor view: real-time ECG, cuff pressure and oximetry plots (left) and numeric displays with status labels (right). Screenshot taken during interface testing.*
 
 ---
