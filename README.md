@@ -100,6 +100,6 @@ Cleaned for publication in 2026 from the original course repository (2024):
 
 ## Team
 
-Developed by **Ignacio Romero Fragoso** and **Gerardo Rodríguez Cárdenas** (firmware, desktop application and analysis scripts), with **Ana Isabel Fernández Díaz**, **Gustavo Maximilian Jaime Rodríguez** and **Daniela Ameyalli Valadez José** (documentation and research).
+Developed by **Ignacio Romero Fragoso** and **Gerardo Rodríguez Cárdenas** (firmware, desktop application and analysis scripts), with **Ana Isabel Fernández Díaz** and **Daniela Ameyalli Valadez José** (documentation and research).
 
 Biomedical Instrumentation Academy, Faculty of Engineering, UNAM.
