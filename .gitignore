@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# recordings are saved here at runtime; do not commit personal data
+data/
+*_Graph.png

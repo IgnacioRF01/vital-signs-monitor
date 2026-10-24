@@ -1,0 +1,6 @@
+pyserial
+numpy
+scipy
+PyQt5
+pyqtgraph
+pygame
