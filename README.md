@@ -64,7 +64,8 @@ ECG (V), cuff pressure (mmHg), IR, red, temperature (°C)
 
 - **Recording:** each session is saved as a time-stamped CSV (`time, value1…value5`) plus a PNG of the plots
 
-![Settings tab](docs/images/gui-settings.png)
+<img width="716" height="356" alt="image" src="https://github.com/user-attachments/assets/bc3ebafb-68a3-44c0-89cd-39ee300d9e74" />
+
 *Settings tab: serial configuration, display options and filters.*
 
 ## Getting started
